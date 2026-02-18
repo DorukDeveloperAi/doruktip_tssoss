@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anlaşmalı Kurumlar ve Doktorlar | Doruk Hastaneleri</title>
+    <!-- Modern Typography: Inter and Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="https://doruktip.com/images/favicon.png">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- Header / Nav -->
+    <header class="main-header" id="header">
+        <div class="container">
+            <a href="#" class="brand-logo">
+                <img src="https://doruktip.com/media/doruk-hastaneleri-logo.png" alt="Doruk Hastaneleri"
+                    style="height: 60px;">
+            </a>
+            <div class="header-contact">
+                <a href="tel:4440455" class="phone-badge"><i class="fas fa-phone-alt"></i> 444 0 455</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Affiliated Institutions Section -->
+        <section id="institutions" class="section institutions-section">
+            <div class="container">
+                <div class="section-header-flex"
+                    style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
+                    <h2 class="section-title" style="margin-bottom: 0;">Anlaşmalı Kurumlar</h2>
+                    <div class="inst-search-wrapper">
+                        <i class="fas fa-search inst-search-icon"></i>
+                        <input type="text" id="institution-search" placeholder="Kurum Ara..." class="inst-search-input">
+                    </div>
+                </div>
+
+                <div class="institutions-grid-wrapper">
+                    <button id="slider-prev" class="slider-nav-btn prev-btn" aria-label="Önceki"><i
+                            class="fas fa-chevron-left"></i></button>
+                    <div id="institutions-container" class="institutions-carousel">
+                        <div class="loading-state">Kurumlar yükleniyor...</div>
+                    </div>
+                    <button id="slider-next" class="slider-nav-btn next-btn" aria-label="Sonraki"><i
+                            class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Affiliated Doctors Section -->
+        <section id="doctors" class="section doctors-section">
+            <div class="container">
+                <div class="section-header-group">
+                    <h2 class="section-title" style="line-height: 1.2;">
+                        Uzman Kadromuz <br>
+                        <span style="font-size: 0.7em; font-weight: normal; color: var(--text-medium);">TSS / ÖSS
+                            Anlaşmalı Hekimlerimiz</span>
+                    </h2>
+                    <p class="disclaimer">Tüm hekimlerimiz Doruk Hastaneleri bünyesinde aktif olarak hizmet vermektedir.
+                    </p>
+
+                    <!-- Hospital Selection Tabs -->
+                    <!-- Hospital Selection and Filter -->
+                    <div class="section-controls">
+                        <div class="hospital-tabs">
+                            <button class="tab-btn active" data-hospital="nilufer">Doruk Özel Nilüfer Hastanesi</button>
+                            <button class="tab-btn" data-hospital="yildirim">Doruk Özel Yıldırım Hastanesi</button>
+                            <button class="tab-btn" data-hospital="cekirge">Doruk Özel Bursa Hastanesi</button>
+                        </div>
+
+                        <div class="filter-bar">
+                            <select id="branch-filter" class="branch-select">
+                                <option value="">Tüm Branşlar</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="new-doc-info">
+                        <span>* Yakın zamanda anlaşma kapsamına dahil olan hekimler.</span>
+                    </div>
+
+                    <div id="doctors-list" class="doctors-list">
+                        <div class="loading-state">Hekimler yükleniyor...</div>
+                    </div>
+                </div>
+        </section>
+    </main>
+
+    <!-- Sticky Navigation Control (Bottom Bar) -->
+    <div class="sticky-footer">
+        <div class="container">
+            <div class="control-center">
+                <div class="search-box">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="main-search" placeholder="Doktor veya Branş Ara..." autocomplete="off">
+                </div>
+
+                <div class="segment-control">
+                    <button class="segment-btn active" data-mode="doctors">Doktorlar</button>
+                    <button class="segment-btn" data-mode="institutions">Kurumlar</button>
+                </div>
+
+                <a href="https://wa.me/904440455" target="_blank" class="whatsapp-btn">
+                    <i class="fab fa-whatsapp"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Header scroll effect
+        window.addEventListener('scroll', () => {
+            const header = document.getElementById('header');
+            if (window.scrollY > 20) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+    </script>
+</body>
+
+</html>
