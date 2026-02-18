@@ -5,7 +5,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/838/elif_oye.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -13,7 +15,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/837/tugce_huseyinoglu.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -21,7 +25,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/836/ibrahim_baran.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/284f120c-d576-47e1-b3ec-ffbf084c6d6c.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/284f120c-d576-47e1-b3ec-ffbf084c6d6c.jpg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Doç. Dr.",
@@ -29,7 +35,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/835/irfan_esen.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ad9243e9-43e2-41a7-9f04-fb6d3a263765.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ad9243e9-43e2-41a7-9f04-fb6d3a263765.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -37,7 +45,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Onkoloji",
     "link": "https://doruktip.com/hekim/834/selin_akturk_esen.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d19f7c43-cd6b-474a-834c-88710811599c.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d19f7c43-cd6b-474a-834c-88710811599c.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -45,7 +55,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/833/ahmet_demir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0acfaaac-1b13-4bc4-a47c-9af4f56ccddb.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0acfaaac-1b13-4bc4-a47c-9af4f56ccddb.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -53,7 +65,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/832/murat_albas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4b472959-853f-41ed-8197-f95c75577a76.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4b472959-853f-41ed-8197-f95c75577a76.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -61,7 +75,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/831/ilknur_saide_kingir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2de0c40f-21d8-4860-9948-0a8e96b56ffd.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2de0c40f-21d8-4860-9948-0a8e96b56ffd.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -69,7 +85,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Nöroloji",
     "link": "https://doruktip.com/hekim/830/ozlem_ozdemir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9827ca5d-0b34-431e-b83d-602fb7e3f040.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9827ca5d-0b34-431e-b83d-602fb7e3f040.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dt.",
@@ -77,7 +95,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Diş sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/829/ozlem_kart.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c759d749-ae7f-4b2c-9d91-2bf9fdf264fd.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c759d749-ae7f-4b2c-9d91-2bf9fdf264fd.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -85,7 +105,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/828/belcim_hazar.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c0c1879a-b913-4703-9d61-457a1837d812.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c0c1879a-b913-4703-9d61-457a1837d812.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -93,7 +115,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Psikiyatri",
     "link": "https://doruktip.com/hekim/827/muhammet_ikbal_gungor.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3124c41f-0a4e-4efc-b155-8130b0cae5ff.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3124c41f-0a4e-4efc-b155-8130b0cae5ff.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -101,7 +125,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/826/ahmet_arslanoglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/043c3dac-3c1c-4391-8ac4-93a26f45fcee.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/043c3dac-3c1c-4391-8ac4-93a26f45fcee.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -109,7 +135,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Göğüs Hastalıkları (Akciğer Hastalıkları)",
     "link": "https://doruktip.com/hekim/825/nurlana_ibrahimova.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b3b23823-2dd1-423f-8216-41c446de028d.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b3b23823-2dd1-423f-8216-41c446de028d.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -117,7 +145,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/824/ayhan_kalyoncu.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dt.",
@@ -125,7 +155,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Diş sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/823/cengiz_gokcal.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/96a002c7-4ceb-47cf-9eb4-f5a191785536.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/96a002c7-4ceb-47cf-9eb4-f5a191785536.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -133,7 +165,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/822/samatar_mohamed_adan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/63bef050-3ef0-4b43-a776-54354b413102.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/63bef050-3ef0-4b43-a776-54354b413102.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dyt.",
@@ -141,7 +175,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Diyetisyen",
     "link": "https://doruktip.com/hekim/821/hatice_dogu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8521cb1a-afcb-4a22-9922-ef796d8ab3b7.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8521cb1a-afcb-4a22-9922-ef796d8ab3b7.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -149,7 +185,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/818/eren_kaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9d909dca-7894-42fa-bd33-78f99fcbf592.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9d909dca-7894-42fa-bd33-78f99fcbf592.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -157,7 +195,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/817/omer_duyuran.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c75aae84-6928-46b7-8c40-ab0b01cd9e0f.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c75aae84-6928-46b7-8c40-ab0b01cd9e0f.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -165,7 +205,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/816/unal_uluca.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/708357bc-a058-465b-8b47-0109e4c98868.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/708357bc-a058-465b-8b47-0109e4c98868.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -173,7 +215,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/815/irem_deniz_karakaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2b73fa02-526f-4194-9abc-5d667c2c59e3.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2b73fa02-526f-4194-9abc-5d667c2c59e3.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -181,7 +225,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/814/ali_artunc_ellergezen.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -189,7 +235,9 @@
     "hosp": null,
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/811/said_ahmet_mutlu.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -197,7 +245,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/809/yunus_emre_sarikaya.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -205,7 +255,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/807/sunduz_gencay.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/726ab8d3-3a08-4a26-8cb2-a9a64d9071fc.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/726ab8d3-3a08-4a26-8cb2-a9a64d9071fc.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -213,7 +265,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/805/ilhan_aydin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/531c4881-391e-474e-9182-07bcbc436c46.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/531c4881-391e-474e-9182-07bcbc436c46.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -221,7 +275,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/804/simge_katranci.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8316c9ec-723a-483f-b1b7-b534b71db5d4.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8316c9ec-723a-483f-b1b7-b534b71db5d4.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -229,7 +285,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
     "link": "https://doruktip.com/hekim/803/ozkan_ozger.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/76516f23-a6c6-4a51-b364-2535de3dbaae.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/76516f23-a6c6-4a51-b364-2535de3dbaae.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -237,7 +295,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/802/omer_selim_yilmaz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f13a4444-5477-446c-a984-91c98a29ef2a.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f13a4444-5477-446c-a984-91c98a29ef2a.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -245,7 +305,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Üroloji",
     "link": "https://doruktip.com/hekim/796/kadir_omur_gunseren.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/20a8b42d-5ac9-4da9-8ac8-c806dad262e4.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/20a8b42d-5ac9-4da9-8ac8-c806dad262e4.jpg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -253,7 +315,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/795/ozgur_temiz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b2eec9e0-1054-43af-bae7-639df7624458.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b2eec9e0-1054-43af-bae7-639df7624458.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Psk.",
@@ -261,7 +325,9 @@
     "hosp": null,
     "unit_name": "Psikoloji (Klinik)",
     "link": "https://doruktip.com/hekim/791/busra_bilge_caglayan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/fee5bfd2-d7ca-49ea-88d3-23528dd8feed.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/fee5bfd2-d7ca-49ea-88d3-23528dd8feed.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -269,7 +335,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/789/cem_hizli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6cf5f710-4a1e-4ad2-a112-4736ec24c0bb.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6cf5f710-4a1e-4ad2-a112-4736ec24c0bb.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -277,7 +345,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/787/eda_efsane_cetinkaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f12f8c44-8c61-4ef3-bebe-8442e4d0d2fe.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f12f8c44-8c61-4ef3-bebe-8442e4d0d2fe.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -285,7 +355,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Fizik tedavi ve Rehabilitasyon",
     "link": "https://doruktip.com/hekim/782/suheda_ozcakir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8339ab4e-eda6-4158-ab92-ecc2f8051501.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8339ab4e-eda6-4158-ab92-ecc2f8051501.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -293,7 +365,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/780/ebru_suer.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0ac6e4fd-6533-43a4-9ef5-0490b657b270.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0ac6e4fd-6533-43a4-9ef5-0490b657b270.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -301,7 +375,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/777/nouraldin_j_a_kharousha.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a2b2847e-d332-4b7d-8e82-acbf24fbdcca.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a2b2847e-d332-4b7d-8e82-acbf24fbdcca.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -309,7 +385,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/775/sezer_gul.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/601c8dfa-ab3a-4789-81f8-0d158585e30e.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/601c8dfa-ab3a-4789-81f8-0d158585e30e.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dyt.",
@@ -317,7 +395,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Diyetisyen",
     "link": "https://doruktip.com/hekim/774/tugce_nur_doganay.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6da97e2d-6a07-48dd-8a9e-af4cf60c553d.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6da97e2d-6a07-48dd-8a9e-af4cf60c553d.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -325,7 +405,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/772/feyza_bayram.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7f79b761-4554-4d71-9509-cd83d20aff6c.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7f79b761-4554-4d71-9509-cd83d20aff6c.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -333,7 +415,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/770/elif_nur_sevinc.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c18e9fcb-eb3e-494d-b547-b3391786e280.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c18e9fcb-eb3e-494d-b547-b3391786e280.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -341,7 +425,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/769/elif_hizal.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/58ab20cb-b68f-45ea-9ae5-d30587423c22.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/58ab20cb-b68f-45ea-9ae5-d30587423c22.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -349,7 +435,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Gastroenteroloji",
     "link": "https://doruktip.com/hekim/767/salih_kilic.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9f8a0527-cb0d-4618-a042-c78c3055f3c8.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9f8a0527-cb0d-4618-a042-c78c3055f3c8.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -357,7 +445,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/765/abdulkadir_gogremis.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9e6d0ec4-d68e-4d1c-a3bc-f2ce5c019ab0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9e6d0ec4-d68e-4d1c-a3bc-f2ce5c019ab0.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -365,7 +455,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Üroloji",
     "link": "https://doruktip.com/hekim/764/omer_aydin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/66f0249b-658c-4136-85b4-eb05dc4603a3.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/66f0249b-658c-4136-85b4-eb05dc4603a3.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -373,7 +465,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kalp ve Damar Cerrahisi",
     "link": "https://doruktip.com/hekim/762/sinan_demirtas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3d27aa53-0ca5-4573-84b7-72645ca6499b.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3d27aa53-0ca5-4573-84b7-72645ca6499b.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -381,7 +475,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Göz Sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/564/hasan_vatansever.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b74e00c2-1ef6-44ba-842e-e5ce4f8e22df.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b74e00c2-1ef6-44ba-842e-e5ce4f8e22df.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -389,7 +485,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Göz Sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/563/bayram_caliskan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1070f081-52bc-4765-a2b8-40c0be9df043.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1070f081-52bc-4765-a2b8-40c0be9df043.jpg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -397,7 +495,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/562/zeynep_sayar.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/182cd870-c814-4592-b659-82b2bbf84d5e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/182cd870-c814-4592-b659-82b2bbf84d5e.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -405,7 +505,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/560/merve_kahraman.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/merve_kahraman.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/merve_kahraman.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -413,7 +515,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/558/ahmet_turgut.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f40f45da-8d2b-412c-8f5c-074125df6ba3.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f40f45da-8d2b-412c-8f5c-074125df6ba3.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -421,7 +525,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Plastik, Rekonstrüktif ve Estetik Cerrahi",
     "link": "https://doruktip.com/hekim/557/furkan_karabulut.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/furkan_karabulut.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/furkan_karabulut.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Klinik Psikolog",
@@ -429,7 +535,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Diyetisyen",
     "link": "https://doruktip.com/hekim/556/selin_zivane.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/e585842b-8a34-4b12-a79c-97920d632fe5.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/e585842b-8a34-4b12-a79c-97920d632fe5.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -437,7 +545,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/555/adnan_orhan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f6e7f95d-c026-4a9b-bd1d-cdf93e9460d8.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f6e7f95d-c026-4a9b-bd1d-cdf93e9460d8.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -445,7 +555,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/554/dogukan_durak.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7ac4a7df-20f4-46bc-b825-5d335d920bea.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7ac4a7df-20f4-46bc-b825-5d335d920bea.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -453,7 +565,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/553/sirem_aydinlar.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c1ac4750-5ba3-4ffd-a8a1-ee8641f9b117.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c1ac4750-5ba3-4ffd-a8a1-ee8641f9b117.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -461,7 +575,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Plastik, Rekonstrüktif ve Estetik Cerrahi",
     "link": "https://doruktip.com/hekim/552/murat_kaan_sozer.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/03f2f105-7deb-42e6-a6ed-fb9d4204c911.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/03f2f105-7deb-42e6-a6ed-fb9d4204c911.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -469,7 +585,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/550/burak_danacioglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c9173e46-513a-4e95-91b7-a36658f21ff3.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c9173e46-513a-4e95-91b7-a36658f21ff3.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -477,7 +595,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/549/ozge_gurbuz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4f19dfe8-796e-4bcd-895b-4a03013cc63e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4f19dfe8-796e-4bcd-895b-4a03013cc63e.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -485,7 +605,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Deri ve Zührevi Hastalıkları (Dermatoloji)",
     "link": "https://doruktip.com/hekim/548/hanife_zerrin_yazici_ozturk.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/60507b17-2827-4ce3-b69d-6228d8acb634.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/60507b17-2827-4ce3-b69d-6228d8acb634.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -493,7 +615,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/547/duygu_hasan_dilber.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/5ea7e508-81a7-4bd5-9cde-df4978b63aad.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/5ea7e508-81a7-4bd5-9cde-df4978b63aad.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -501,7 +625,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/546/berat_eralp.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6d7eecf1-8fcf-4a6f-b593-82eeab88c3c4.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6d7eecf1-8fcf-4a6f-b593-82eeab88c3c4.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -509,7 +635,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Nefroloji",
     "link": "https://doruktip.com/hekim/545/kamil_dilek.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8645721b-0c6b-420a-bef8-f5b918102417.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8645721b-0c6b-420a-bef8-f5b918102417.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -517,7 +645,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Plastik, Rekonstrüktif ve Estetik Cerrahi",
     "link": "https://doruktip.com/hekim/544/ramazan_kahveci.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/aaabfcf5-a79d-495f-a2e0-1b27114e3434.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/aaabfcf5-a79d-495f-a2e0-1b27114e3434.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -525,7 +655,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Deri ve Zührevi Hastalıkları (Dermatoloji)",
     "link": "https://doruktip.com/hekim/543/mehmet_simsek.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/16ad3d9e-3b30-4763-914a-bbdf1dcff634.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/16ad3d9e-3b30-4763-914a-bbdf1dcff634.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -533,7 +665,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/542/mehmet_vedat_koca.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/dc15fbfe-f8cd-42dc-bd74-86cfa3544fa0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/dc15fbfe-f8cd-42dc-bd74-86cfa3544fa0.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm.Odyolog",
@@ -541,7 +675,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Bursa Odyoloji",
     "link": "https://doruktip.com/hekim/538/aylin_hocaoglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f53e7668-765d-4bbe-a6d8-fb95ecb50176.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f53e7668-765d-4bbe-a6d8-fb95ecb50176.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -549,7 +685,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/537/ali_emin_latif.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4884e4aa-b97e-4e48-93a5-45d6c5d9b1e0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4884e4aa-b97e-4e48-93a5-45d6c5d9b1e0.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -557,7 +695,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": null,
     "link": "https://doruktip.com/hekim/532/furkan_eren.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -565,7 +705,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/530/ibrahim_hakki_bora.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c1f16618-caf3-4cd4-a4e7-428d919e681f.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c1f16618-caf3-4cd4-a4e7-428d919e681f.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -573,7 +715,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/526/nuran_celiloglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/18f2ad35-3a5d-4ab4-86aa-ee194ea80deb.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/18f2ad35-3a5d-4ab4-86aa-ee194ea80deb.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -581,7 +725,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/525/seren_seviker.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3be8ec79-5ecf-473d-9265-144044cf308e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3be8ec79-5ecf-473d-9265-144044cf308e.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -589,7 +735,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/524/emine_mestan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4dd53b6c-2c76-4ed6-88d9-a3595d5432d4.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4dd53b6c-2c76-4ed6-88d9-a3595d5432d4.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -597,7 +745,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/523/sercan_sinir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4f4e74dd-037f-4a55-8e20-7b995df0f72a.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4f4e74dd-037f-4a55-8e20-7b995df0f72a.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -605,7 +755,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Cerrahisi",
     "link": "https://doruktip.com/hekim/522/tamer_ozekinci.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1d4c98b9-384a-4efe-bca6-73716b9ecdbe.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1d4c98b9-384a-4efe-bca6-73716b9ecdbe.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dyt.",
@@ -613,7 +765,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Diyetisyen",
     "link": "https://doruktip.com/hekim/517/seray_yalman.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a0e960e7-2ff8-4bea-92b1-f1f515bfe5d9.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a0e960e7-2ff8-4bea-92b1-f1f515bfe5d9.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -621,7 +775,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Hematoloji",
     "link": "https://doruktip.com/hekim/516/zafer_serenli_yegen.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/959fdb54-55a0-487f-9b59-16d433a8c8b3.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/959fdb54-55a0-487f-9b59-16d433a8c8b3.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -629,7 +785,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Fizik tedavi ve Rehabilitasyon",
     "link": "https://doruktip.com/hekim/514/elif_aksakalli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2ecefba4-0b0a-4884-84c4-bd2f939a8836.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2ecefba4-0b0a-4884-84c4-bd2f939a8836.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -637,7 +795,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/509/murat_godel.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f676dd01-e16a-4d28-bb75-21d455b2f91f.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f676dd01-e16a-4d28-bb75-21d455b2f91f.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -645,7 +805,9 @@
     "hosp": null,
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/501/kayhan_selcuk.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7c071074-ce16-4c3f-8d52-c94fa0f6bf22.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7c071074-ce16-4c3f-8d52-c94fa0f6bf22.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -653,7 +815,9 @@
     "hosp": null,
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/500/muhammet_muhtar_ozsoy.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b4c010dc-add9-4db6-98c0-c2dc2e0285c0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b4c010dc-add9-4db6-98c0-c2dc2e0285c0.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -661,7 +825,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/490/yusuf_cosar.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/fae0dd12-3d96-404e-9fab-f46dea24cf81.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/fae0dd12-3d96-404e-9fab-f46dea24cf81.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -669,7 +835,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/480/nesibe_gul_yuksel_aslier.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d20a7753-d87a-47e9-9185-767b7ad63f13.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d20a7753-d87a-47e9-9185-767b7ad63f13.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Prof. Dr.",
@@ -677,7 +845,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Hematoloji",
     "link": "https://doruktip.com/hekim/479/ridvan_ali.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3e70458f-6c33-4a7f-97fa-61ab2608e0ec.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3e70458f-6c33-4a7f-97fa-61ab2608e0ec.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -685,7 +855,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/476/ahmet_seckin_cetinkaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/05f4b2d5-dfac-4631-8de6-5d2e4f668f5c.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/05f4b2d5-dfac-4631-8de6-5d2e4f668f5c.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -693,7 +865,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/473/mutlu_kilciler.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/db3ce150-1df3-4b97-ba0c-accf1247bb27.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/db3ce150-1df3-4b97-ba0c-accf1247bb27.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -701,7 +875,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/472/omer_yalkin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b2cae83c-c385-43da-af3e-3f3d046439c4.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b2cae83c-c385-43da-af3e-3f3d046439c4.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -709,7 +885,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Göğüs Cerrahisi",
     "link": "https://doruktip.com/hekim/470/kamran_aliyev.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/180073a6-707c-428d-b67b-032a68099544.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/180073a6-707c-428d-b67b-032a68099544.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -717,7 +895,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kalp ve Damar Cerrahisi",
     "link": "https://doruktip.com/hekim/469/osman_tiryakioglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2a70d02f-f922-4fc7-92d8-278a55bc8c86.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2a70d02f-f922-4fc7-92d8-278a55bc8c86.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -725,7 +905,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/468/suat_paker.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/07f01f97-308b-4dae-ba6a-528962758787.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/07f01f97-308b-4dae-ba6a-528962758787.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -733,7 +915,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Radyasyon Onkolojisi",
     "link": "https://doruktip.com/hekim/467/nihat_sozer.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d257b966-9ae3-46d8-823e-296a42cfe857.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d257b966-9ae3-46d8-823e-296a42cfe857.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -741,7 +925,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Nükleer Tıp",
     "link": "https://doruktip.com/hekim/466/tomris_atabey.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f7e66709-c146-4751-88fc-ab81a8f2a5b2.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f7e66709-c146-4751-88fc-ab81a8f2a5b2.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -749,7 +935,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Biyokimya Laboratuvarı",
     "link": "https://doruktip.com/hekim/465/suleyman_sirri_gokalp.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/cded26bf-72eb-41d5-bca4-bb766d153c3b.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/cded26bf-72eb-41d5-bca4-bb766d153c3b.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -757,7 +945,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Tıbbi (Medikal) Onkoloji",
     "link": "https://doruktip.com/hekim/464/turgut_kacan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b5c6396e-15bb-42b9-94e3-20a8dc5a403e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b5c6396e-15bb-42b9-94e3-20a8dc5a403e.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -765,7 +955,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Fizik tedavi ve Rehabilitasyon",
     "link": "https://doruktip.com/hekim/461/naci_yosunkaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a160db3f-b510-451c-882c-01dae04b61fd.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a160db3f-b510-451c-882c-01dae04b61fd.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -773,7 +965,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Deri ve Zührevi Hastalıkları (Dermatoloji)",
     "link": "https://doruktip.com/hekim/460/erdinc_terzi.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/77889a86-aaab-4b07-a74e-cda751cf6d56.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/77889a86-aaab-4b07-a74e-cda751cf6d56.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -781,7 +975,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/459/mustafa_esgin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/5fcf284a-89d7-4f98-af44-050aebbecb34.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/5fcf284a-89d7-4f98-af44-050aebbecb34.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -789,7 +985,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/458/mete_sisman.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/300e3459-0738-45fe-8ee5-19602d828e85.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/300e3459-0738-45fe-8ee5-19602d828e85.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -797,7 +995,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/457/ozlem_ozkumit.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/01b23338-24c9-4c7a-83e8-4874f4234ed2.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/01b23338-24c9-4c7a-83e8-4874f4234ed2.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -805,7 +1005,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Gastroenteroloji",
     "link": "https://doruktip.com/hekim/456/guray_can.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/318d6849-7cd1-4abc-bcca-d7b803e44663.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/318d6849-7cd1-4abc-bcca-d7b803e44663.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -813,7 +1015,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/454/mehmet_bayrak.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/16a9500f-667e-4368-a16f-e967adeba5ef.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/16a9500f-667e-4368-a16f-e967adeba5ef.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -821,7 +1025,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Endokronoloji",
     "link": "https://doruktip.com/hekim/452/ozgecan_demirbas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/66069811-5e10-4cab-906f-048d47dfb0f9.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/66069811-5e10-4cab-906f-048d47dfb0f9.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -829,7 +1035,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
     "link": "https://doruktip.com/hekim/444/mesut_celik.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/156edeeb-d012-474c-96ea-ca114dc3a51f.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/156edeeb-d012-474c-96ea-ca114dc3a51f.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -837,7 +1045,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Üroloji",
     "link": "https://doruktip.com/hekim/442/mehmet_ali_karagoz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a84e3904-e9cd-4d34-8219-e2d50d3f3cff.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a84e3904-e9cd-4d34-8219-e2d50d3f3cff.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -845,7 +1055,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Göğüs Hastalıkları (Akciğer Hastalıkları)",
     "link": "https://doruktip.com/hekim/440/abdullah_simsek.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/78ba4983-f40c-434c-b632-04b94fb1999b.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/78ba4983-f40c-434c-b632-04b94fb1999b.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -853,7 +1065,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/437/selman_candan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8b3c2778-3f73-4635-9137-a91dd11cebe9.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8b3c2778-3f73-4635-9137-a91dd11cebe9.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -861,7 +1075,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": null,
     "link": "https://doruktip.com/hekim/436/aytac_yucel.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/926c80c8-1d18-4a97-8e8e-799f6c780d43.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/926c80c8-1d18-4a97-8e8e-799f6c780d43.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -869,7 +1085,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
     "link": "https://doruktip.com/hekim/431/fatih_aydemir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/187a8e11-edac-4e05-b34e-bc5704a8c103.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/187a8e11-edac-4e05-b34e-bc5704a8c103.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Dyt.",
@@ -877,7 +1095,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Diyetisyen",
     "link": "https://doruktip.com/hekim/429/zeynep_erbas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ce1a79b3-9793-4498-bed3-8c67f440297d.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ce1a79b3-9793-4498-bed3-8c67f440297d.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -885,7 +1105,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/422/abdullah_ozdemir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1eeb2a31-7075-489d-8651-4b053e357655.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1eeb2a31-7075-489d-8651-4b053e357655.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -893,7 +1115,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": null,
     "link": "https://doruktip.com/hekim/420/umut_kamber_oylevi.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/bc254e85-f2b3-44f8-a260-340347fad499.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/bc254e85-f2b3-44f8-a260-340347fad499.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -901,7 +1125,9 @@
     "hosp": null,
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/418/oguzhan_canakci.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f23ccaee-e398-49ba-9c82-24af78d0703e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f23ccaee-e398-49ba-9c82-24af78d0703e.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -909,7 +1135,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/414/volkan_dalli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/772.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/772.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -917,7 +1145,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/413/kutay_sentay.html",
-    "fotograf_url": null
+    "fotograf_url": null,
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -925,7 +1155,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Göğüs Hastalıkları (Akciğer Hastalıkları)",
     "link": "https://doruktip.com/hekim/411/irfan_atasoy.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1d6bdb1d-ec5e-4b6d-aee7-1b5cf94cfaf7.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1d6bdb1d-ec5e-4b6d-aee7-1b5cf94cfaf7.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -933,7 +1165,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/410/servet_demir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1c767d27-f4ad-446c-8e93-9e1a405322be.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1c767d27-f4ad-446c-8e93-9e1a405322be.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Prof. Dr.",
@@ -941,7 +1175,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Deri ve Zührevi Hastalıkları (Dermatoloji)",
     "link": "https://doruktip.com/hekim/409/deniz_seckin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/bec0e78a-3e9e-4a6d-9d20-e9f64dafc065.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/bec0e78a-3e9e-4a6d-9d20-e9f64dafc065.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -949,7 +1185,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/407/coskun_ozer.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/bb6a9f02-e4a1-4911-95e1-91891d7c9a9f.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/bb6a9f02-e4a1-4911-95e1-91891d7c9a9f.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -957,7 +1195,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/403/hakan_akay.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f70c063f-42b5-413f-97c7-995c8fcbf242.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f70c063f-42b5-413f-97c7-995c8fcbf242.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -965,7 +1205,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/400/tunc_polat_edizsoy.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/13bbba37-6886-4bff-a5c8-51a184d225fe.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/13bbba37-6886-4bff-a5c8-51a184d225fe.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -973,7 +1215,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/394/mehmet_renan_ozakgun.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2ac4c156-2d50-494a-b599-36d376974cd0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2ac4c156-2d50-494a-b599-36d376974cd0.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -981,7 +1225,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/382/meltem_cakmak.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4d83490f-7efb-452b-afe1-3a36266be097.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4d83490f-7efb-452b-afe1-3a36266be097.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -989,7 +1235,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Üroloji",
     "link": "https://doruktip.com/hekim/380/arif_demirbas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9c6744c3-4a01-4e6f-a3c2-3fe4f7c2b697.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/9c6744c3-4a01-4e6f-a3c2-3fe4f7c2b697.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -997,7 +1245,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/370/senol_acar.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2ab649a5-34c4-495c-8561-f23ad5c3034b.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2ab649a5-34c4-495c-8561-f23ad5c3034b.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1005,7 +1255,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/368/aysenur_kaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/09b69a99-e64d-4106-923f-8c2e45ef5dba.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/09b69a99-e64d-4106-923f-8c2e45ef5dba.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -1013,7 +1265,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/361/volkan_tumay.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4c9af473-ea65-43e5-8bc0-3abaf1fd4f58.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/4c9af473-ea65-43e5-8bc0-3abaf1fd4f58.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1021,7 +1275,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji",
     "link": "https://doruktip.com/hekim/360/meltem_oner.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/191cd44f-ea31-47b2-9c06-d6a30f4c546b.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/191cd44f-ea31-47b2-9c06-d6a30f4c546b.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1029,7 +1285,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Gastroenteroloji",
     "link": "https://doruktip.com/hekim/359/murat_pekgoz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/361ba67a-1b19-4cc7-8e3f-67688c287cfa.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/361ba67a-1b19-4cc7-8e3f-67688c287cfa.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1037,7 +1295,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/354/mehmet_kaydul.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f5d0cb74-e25e-4b8c-a987-c844c9c0cbc5.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f5d0cb74-e25e-4b8c-a987-c844c9c0cbc5.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1045,7 +1305,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Klinik Mikrobiyoloji",
     "link": "https://doruktip.com/hekim/349/seval_ozdemir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/01d625c6-c091-435f-9e22-1b9265bb113a.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/01d625c6-c091-435f-9e22-1b9265bb113a.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1053,7 +1315,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji",
     "link": "https://doruktip.com/hekim/345/okan_tore.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/739.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/739.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1061,7 +1325,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/343/emin_ozturk.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b4b30f27-2747-43a5-be07-dacdecef87dc.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b4b30f27-2747-43a5-be07-dacdecef87dc.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -1069,7 +1335,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Psikiyatri",
     "link": "https://doruktip.com/hekim/339/ahmet_hakki_asik.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b2fb7d5f-fc5d-4f3f-af8b-2297c26efe07.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b2fb7d5f-fc5d-4f3f-af8b-2297c26efe07.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -1077,7 +1345,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Göz Sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/335/ali_karatas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/91ddb3db-858b-4de5-b106-a4ce178f93fc.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/91ddb3db-858b-4de5-b106-a4ce178f93fc.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1085,7 +1355,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/333/serkan_fatih_yegen.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d6a92561-1a2f-405d-b973-42163acbbae1.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/d6a92561-1a2f-405d-b973-42163acbbae1.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1093,7 +1365,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/332/leyla_teksan_ozalp.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/69944050-a30f-4259-b8d8-25787bda276d.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/69944050-a30f-4259-b8d8-25787bda276d.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1101,7 +1375,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/331/gungor_erk.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/119cd129-10bb-4ecb-b8a0-778bea865569.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/119cd129-10bb-4ecb-b8a0-778bea865569.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1109,7 +1385,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Göz Sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/328/ayhan_yilmaz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ae4de6f6-0bb9-4f74-ad66-706944841eae.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ae4de6f6-0bb9-4f74-ad66-706944841eae.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1117,7 +1395,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/326/olcay_derici.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/fed1859b-6234-49c2-83a3-1e8ccef45e1f.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/fed1859b-6234-49c2-83a3-1e8ccef45e1f.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1125,7 +1405,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/322/melike_omak_yildirim.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6a6d4d1a-2740-4ade-9967-ff1240f53447.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/6a6d4d1a-2740-4ade-9967-ff1240f53447.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1133,7 +1415,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/316/ersun_topal.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f8589d7c-6e86-4d96-8909-4f96d2a39d67.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f8589d7c-6e86-4d96-8909-4f96d2a39d67.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1141,7 +1425,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Göz Sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/314/ozer_ozbudak.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/437a0a25-7466-4263-ace2-02ba6482eab2.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/437a0a25-7466-4263-ace2-02ba6482eab2.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1149,7 +1435,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/302/cahit_kocak.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3ff4da46-b331-4765-b3d9-92576cd99acb.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/3ff4da46-b331-4765-b3d9-92576cd99acb.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -1157,7 +1445,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/297/elif_sahin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/501e9350-1956-472c-8c13-2079c846fce8.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/501e9350-1956-472c-8c13-2079c846fce8.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1165,7 +1455,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/293/mustafa_kisakurek.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2cd4e6fd-2a67-4c68-9807-ad1f5b3905f8.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2cd4e6fd-2a67-4c68-9807-ad1f5b3905f8.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1173,7 +1465,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/287/nurhan_celik.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/77ad4968-78a6-413d-beec-848e5c91124f.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/77ad4968-78a6-413d-beec-848e5c91124f.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1181,7 +1475,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/284/erdinc_karatas.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/db46e60e-be47-4cb5-9b75-2cb9eb3f208c.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/db46e60e-be47-4cb5-9b75-2cb9eb3f208c.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1189,7 +1485,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Plastik, Rekonstrüktif ve Estetik Cerrahi",
     "link": "https://doruktip.com/hekim/280/kemal_karaca.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b9838f00-a5fc-45b6-8166-863d61c00566.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b9838f00-a5fc-45b6-8166-863d61c00566.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1197,7 +1495,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/260/sabahattin_karakaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/df4906c9-cacc-4f93-b4d3-a0c95b67c54e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/df4906c9-cacc-4f93-b4d3-a0c95b67c54e.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1205,7 +1505,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Üroloji",
     "link": "https://doruktip.com/hekim/259/tuncay_ozgunay.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1a802ca4-7264-4988-a973-1acbf7a13ddc.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/1a802ca4-7264-4988-a973-1acbf7a13ddc.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1213,7 +1515,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/247/ediz_tevfik_ozgan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/e3baae98-f311-493a-8530-a2e723e30b3c.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/e3baae98-f311-493a-8530-a2e723e30b3c.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1221,7 +1525,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/233/mehmet_serif_ozkan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b0bd5140-9ad0-4bfa-b11d-040c6138ac73.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/b0bd5140-9ad0-4bfa-b11d-040c6138ac73.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1229,7 +1535,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Deri ve Zührevi Hastalıkları (Dermatoloji)",
     "link": "https://doruktip.com/hekim/225/muhtar_unaldi.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c4e51952-27df-49d3-a34e-7de0b2238690.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c4e51952-27df-49d3-a34e-7de0b2238690.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1237,7 +1545,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/209/cigdem_sen.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c8b68d48-3637-4a71-a648-cef9a201eba5.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c8b68d48-3637-4a71-a648-cef9a201eba5.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Op. Dr.",
@@ -1245,7 +1555,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Genel Cerrahi",
     "link": "https://doruktip.com/hekim/205/ersin_ozgoren.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/cfeda686-18f3-4e13-8aa7-6b637f13f813.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/cfeda686-18f3-4e13-8aa7-6b637f13f813.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1253,7 +1565,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/195/resat_saya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0889d95f-60b9-453d-a2ba-bf66f7eba2ea.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0889d95f-60b9-453d-a2ba-bf66f7eba2ea.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1261,7 +1575,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/185/murat_cakir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/53d405d6-48d0-49fa-8578-ed4522ad44ae.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/53d405d6-48d0-49fa-8578-ed4522ad44ae.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1269,7 +1585,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/184/handan_ilkdogan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ee5ebe92-b3db-4ae2-9afd-7c6d93cdbb04.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ee5ebe92-b3db-4ae2-9afd-7c6d93cdbb04.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1277,7 +1595,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/181/gokhan_akturk.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a8282a4a-bb8f-4585-97dc-62d68984d366.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a8282a4a-bb8f-4585-97dc-62d68984d366.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1285,7 +1605,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/166/fatma_guray.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a2d77ce1-51f3-4d51-bf52-d357c4e94dde.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a2d77ce1-51f3-4d51-bf52-d357c4e94dde.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1293,7 +1615,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/165/kemal_koroglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c0f9ad0d-3dd5-42b1-b478-4ac935b40664.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c0f9ad0d-3dd5-42b1-b478-4ac935b40664.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1301,7 +1625,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/162/bulent_aymelek.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f7d7dc92-27a8-4b4f-bc56-b4bf30c45d4d.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/f7d7dc92-27a8-4b4f-bc56-b4bf30c45d4d.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1309,7 +1635,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Psikiyatri",
     "link": "https://doruktip.com/hekim/154/fatma_erzengin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/89b5a578-a4ea-45d0-9b48-321de432f5fc.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/89b5a578-a4ea-45d0-9b48-321de432f5fc.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Prof. Dr.",
@@ -1317,7 +1645,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/147/nurullah_dogan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/be77886b-e66b-4a1d-8721-cf1e2a672108.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/be77886b-e66b-4a1d-8721-cf1e2a672108.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Doç. Dr.",
@@ -1325,7 +1655,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Romatoloji",
     "link": "https://doruktip.com/hekim/145/yusuf_karabulut.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/38f8e027-7019-4835-86da-f4404618a11e.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/38f8e027-7019-4835-86da-f4404618a11e.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1333,7 +1665,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
     "link": "https://doruktip.com/hekim/135/zafer_baskan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a567d5ed-6bc7-46b2-b162-e95c0d8c74fc.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/a567d5ed-6bc7-46b2-b162-e95c0d8c74fc.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1341,7 +1675,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Göz Sağlığı ve Hastalıkları",
     "link": "https://doruktip.com/hekim/123/feray_aygul_alkan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8d89d16f-2e15-4be4-baf5-c721309a2f56.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/8d89d16f-2e15-4be4-baf5-c721309a2f56.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1349,7 +1685,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/108/mensur_suer.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/e31ebc3a-73ab-4fdb-844e-e5fd0c9b11fc.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/e31ebc3a-73ab-4fdb-844e-e5fd0c9b11fc.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1357,7 +1695,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Üroloji",
     "link": "https://doruktip.com/hekim/90/tugrul_turker.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/121b9cde-7b8b-4a7f-8cd8-e5abfcbbeff7.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/121b9cde-7b8b-4a7f-8cd8-e5abfcbbeff7.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1365,7 +1705,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/84/atilla_guray.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/5416e055-2b40-4863-b32c-d288985ca0a9.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/5416e055-2b40-4863-b32c-d288985ca0a9.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1373,7 +1715,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Biyokimya Laboratuvarı",
     "link": "https://doruktip.com/hekim/80/gulseven_kilicli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7d139881-d5aa-4a43-a50d-2ef52d5f80af.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/7d139881-d5aa-4a43-a50d-2ef52d5f80af.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Dr.",
@@ -1381,7 +1725,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Acil Servis",
     "link": "https://doruktip.com/hekim/65/ismail_cilingir.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ec39af18-5798-4dc7-b6c4-ee8d2b1ece5d.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ec39af18-5798-4dc7-b6c4-ee8d2b1ece5d.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1389,7 +1735,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/60/yunus_colakoglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0d2c493d-e610-44c8-baa3-94edae38f00c.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0d2c493d-e610-44c8-baa3-94edae38f00c.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1397,7 +1745,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/57/tayfun_acikgoz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/73e0885f-e7e0-407f-b253-26d3060540eb.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/73e0885f-e7e0-407f-b253-26d3060540eb.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -1405,7 +1755,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/54/sozer_sarioglu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c69c4afa-bc22-458a-b14f-0243cade9b9d.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c69c4afa-bc22-458a-b14f-0243cade9b9d.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1413,7 +1765,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "İç Hastalıkları",
     "link": "https://doruktip.com/hekim/52/onder_akkaya.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ecf9b6ea-2ba7-4926-a97b-0402b5a605b5.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/ecf9b6ea-2ba7-4926-a97b-0402b5a605b5.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1421,7 +1775,9 @@
     "hosp": "Doruk Özel Yıldırım Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/51/orhan_gozaydin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0e581fbe-665e-430c-b133-1f6cd5b6f604.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/0e581fbe-665e-430c-b133-1f6cd5b6f604.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1429,7 +1785,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Deri ve Zührevi Hastalıkları (Dermatoloji)",
     "link": "https://doruktip.com/hekim/49/nejat_biyikli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/de0d2022-bf25-4104-a981-98f8277a05e0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/de0d2022-bf25-4104-a981-98f8277a05e0.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1437,7 +1795,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Nöroloji",
     "link": "https://doruktip.com/hekim/40/filiz_gozeten_yetiker.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2bfc6f4e-69a3-4b73-bc94-d9851254fb99.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/2bfc6f4e-69a3-4b73-bc94-d9851254fb99.jpeg",
+    "tss_agreement": true,
+    "tss_new": true
   },
   {
     "title": "Uzm. Dr.",
@@ -1445,7 +1805,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/38/fatih_gok.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/611394bb-0634-436b-a7a1-d8e301a7d3df.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/611394bb-0634-436b-a7a1-d8e301a7d3df.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1453,7 +1815,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Kardiyoloji",
     "link": "https://doruktip.com/hekim/37/erkan_avci.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/79aa50d2-f952-4a4d-88e0-6ae92d141e13.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/79aa50d2-f952-4a4d-88e0-6ae92d141e13.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1461,7 +1825,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kadın Hastalıkları ve Doğum",
     "link": "https://doruktip.com/hekim/31/suhendan_benderli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/19a42f77-7086-4387-a8f8-432f4fc5b4a7.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/19a42f77-7086-4387-a8f8-432f4fc5b4a7.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1469,7 +1835,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
     "link": "https://doruktip.com/hekim/28/sait_uysal.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/40805aec-1c35-41a8-a570-8e4a5d9cc3c0.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/40805aec-1c35-41a8-a570-8e4a5d9cc3c0.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1477,7 +1845,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/26/omer_yavuz.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/03033cf0-7cd2-426b-bd39-d7109b4d16d8.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/03033cf0-7cd2-426b-bd39-d7109b4d16d8.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1485,7 +1855,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Kulak Burun Boğaz Hastalıkları",
     "link": "https://doruktip.com/hekim/25/osman_atac.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/eb000655-7c6f-4c00-a738-13c5d187dfed.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/eb000655-7c6f-4c00-a738-13c5d187dfed.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1493,7 +1865,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/22/levent_uslu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/aaf76c31-cc00-4fe5-bb36-bc3f8caaccbe.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/aaf76c31-cc00-4fe5-bb36-bc3f8caaccbe.jpeg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1501,7 +1875,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Anestezi ve Reanimasyon",
     "link": "https://doruktip.com/hekim/20/huseyin_teksan.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/24ae9369-f93e-46d5-9655-145ae5547655.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/24ae9369-f93e-46d5-9655-145ae5547655.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1509,7 +1885,9 @@
     "hosp": "Doruk Özel Bursa Hastanesi",
     "unit_name": "Ortopedi ve Travmatoloji",
     "link": "https://doruktip.com/hekim/13/ertugrul_aydin.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c693639f-ae71-41f6-bf87-39f2aab126cd.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/c693639f-ae71-41f6-bf87-39f2aab126cd.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1517,7 +1895,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Çocuk Sağlığı ve Hastalıkları (Pediatri)",
     "link": "https://doruktip.com/hekim/10/berkan_akturk.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/357.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/357.jpg",
+    "tss_agreement": false,
+    "tss_new": false
   },
   {
     "title": "Uzm. Dr.",
@@ -1525,7 +1905,9 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Radyoloji",
     "link": "https://doruktip.com/hekim/9/elfi_divanli.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/358.jpg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/358.jpg",
+    "tss_agreement": true,
+    "tss_new": false
   },
   {
     "title": "Op. Dr.",
@@ -1533,6 +1915,8 @@
     "hosp": "Doruk Özel Nilüfer Hastanesi",
     "unit_name": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
     "link": "https://doruktip.com/hekim/1/atif_mutlu.html",
-    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/992c4de9-f64a-4dbd-a5e1-92ed9d2229e2.jpeg"
+    "fotograf_url": "https://doruktip.com/paket/Fotograflar_tr/thumbs/992c4de9-f64a-4dbd-a5e1-92ed9d2229e2.jpeg",
+    "tss_agreement": true,
+    "tss_new": false
   }
 ]

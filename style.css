@@ -101,7 +101,7 @@ button {
 }
 
 .brand-logo img {
-    height: 45px;
+    height: 50px;
     width: auto;
 }
 
@@ -109,7 +109,7 @@ button {
     background-color: var(--primary-color);
     color: var(--white);
     padding: 8px 16px;
-    border-radius: var(--radius-sm);
+    border-radius: 20px;
     font-weight: 700;
     font-size: 14px;
     display: flex;
@@ -120,6 +120,31 @@ button {
 
 .phone-badge:hover {
     background-color: var(--secondary-color);
+}
+
+.header-contact {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.whatsapp-badge {
+    background-color: #25D366;
+    color: var(--white);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: var(--transition);
+}
+
+.whatsapp-badge:hover {
+    background-color: #1ebc57;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(37, 211, 102, 0.3);
 }
 
 /* --- Sections Common --- */
@@ -134,6 +159,36 @@ button {
     padding-left: 12px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+}
+
+.agreement-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: var(--secondary-color);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 12px;
+    z-index: 2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.new-agreement-alert {
+    margin-top: 8px;
+    font-size: 11px;
+    color: #e67e22;
+    /* Orange for attention */
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    background-color: #fff3e0;
+    padding: 4px;
+    border-radius: 4px;
+    width: 100%;
 }
 
 /* --- Institutions Slider (Horizontal Scroll) --- */
@@ -381,37 +436,67 @@ button {
     /* Standard alert red */
     font-weight: 600;
     margin-bottom: 16px;
-    font-style: italic;
 }
 
+/* Filter Bar */
 .filter-bar {
-    margin-bottom: 0;
-    /* Reset bottom margin as it is in flex container */
-    flex-grow: 1;
-    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 10px 0;
 }
 
 .branch-select {
-    width: 100%;
-    max-width: 300px;
-    padding: 10px 12px;
-    font-size: 14px;
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-sm);
-    color: var(--text-dark);
+    padding: 20px 28px;
+    border: 2px solid #e9ecef;
+    border-radius: 16px;
     background-color: var(--white);
-    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
-    background-repeat: no-repeat;
-    background-position: right 10px center;
-    background-size: 12px;
-    appearance: none;
-    -webkit-appearance: none;
+    color: var(--primary-color);
+    font-size: 16px;
+    font-weight: 700;
+    outline: none;
     cursor: pointer;
+    transition: all 0.3s ease;
+    flex: 1;
+    min-width: 150px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23003366%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 24px top 50%;
+    background-size: 14px auto;
+    padding-right: 60px;
+}
+
+.branch-select:hover {
+    border-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
 }
 
 .branch-select:focus {
     border-color: var(--secondary-color);
-    outline: none;
+    box-shadow: 0 0 0 4px rgba(0, 86, 179, 0.15);
+}
+
+.agreement-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background-color: var(--success-color);
+    /* Green for agreement */
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 6px 10px;
+    border-radius: 20px;
+    z-index: 5;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 4px;
 }
 
 .doctors-list {
@@ -424,28 +509,171 @@ button {
 
 /* Branch header h3 removed */
 
+/* Doctor Grid Layout - Updated to 4 columns */
 .doctor-items {
     display: grid !important;
-    grid-template-columns: repeat(6, 1fr);
-    /* 6 columns per row */
-    gap: 16px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
 }
 
+/* Base Doctor Item Styles (Desktop) */
+.doctor-item {
+    position: relative;
+    background-color: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    transition: var(--transition);
+}
+
+.doctor-item:hover {
+    border-color: var(--secondary-color);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.doc-info-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+}
+
+.doc-thumb,
+.doc-thumb-placeholder {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+    background-color: #f1f3f5;
+    border: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-light);
+    font-size: 24px;
+}
+
+.doc-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+}
+
+/* Media Queries */
 @media (max-width: 1200px) {
-    .doctor-items {
-        grid-template-columns: repeat(4, 1fr);
-    }
-}
-
-@media (max-width: 992px) {
     .doctor-items {
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
 @media (max-width: 768px) {
+
+    /* Header Fix for Mobile */
+    .main-header {
+        height: auto;
+        padding: 12px 0;
+    }
+
+    .main-header .container {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .header-contact {
+        width: 100%;
+        justify-content: center;
+    }
+
+    /* Institution Search Mobile Fix */
+    .section-header-flex {
+        flex-direction: column;
+        align-items: flex-start !important;
+        gap: 12px;
+    }
+
+    .inst-search-wrapper {
+        width: 100%;
+    }
+
+    .inst-search-input {
+        width: 100% !important;
+        /* Force full width */
+        padding: 12px 12px 12px 40px;
+        /* Larger touch area */
+        font-size: 15px;
+        background-color: var(--white);
+        border: 1px solid #ced4da;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+
+    .inst-search-input:focus {
+        width: 100% !important;
+    }
+
+    .inst-search-icon {
+        font-size: 16px;
+        left: 14px;
+    }
+
+    /* Doctor Card Mobile Layout */
     .doctor-items {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr;
+    }
+
+    .doctor-item {
+        flex-direction: row;
+        flex-wrap: wrap;
+        /* Enable wrapping for link */
+        align-items: center;
+        text-align: left;
+        gap: 16px;
+        padding: 12px;
+        justify-content: space-between;
+    }
+
+    .doctor-image-wrapper {
+        flex-shrink: 0;
+    }
+
+    .doc-thumb,
+    .doc-thumb-placeholder {
+        width: 70px;
+        height: 70px;
+    }
+
+    .doc-text {
+        align-items: flex-start;
+        flex: 1;
+        min-width: calc(100% - 100px);
+        /* Ensure it takes space next to image */
+    }
+
+    .doc-profile-link {
+        margin-top: 12px;
+        padding: 8px 12px;
+        width: 100%;
+        /* Force full width on new line */
+        text-align: center;
+        background-color: #f8f9fa;
+        order: 3;
+        /* Ensure it comes last visually if flex order is respected (it defaults to DOM order usually, but wrapper handles it) */
+        flex-basis: 100%;
+        /* Force break to new line */
+    }
+
+    .agreement-badge {
+        top: 8px;
+        right: 8px;
+        font-size: 10px;
+        padding: 4px 8px;
     }
 
     .section-controls {
@@ -461,86 +689,35 @@ button {
 @media (max-width: 480px) {
     .doctor-items {
         grid-template-columns: repeat(1, 1fr);
-        /* Optional: 1 column on very small screens */
     }
 }
 
-.doctor-item {
-    position: relative;
-    /* For badge positioning */
-    background-color: var(--white);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-sm);
-    padding: 12px;
-    display: flex;
-    flex-direction: column;
-    /* Stack vertically for 6-col layout */
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-    transition: var(--transition);
-}
-
-.doctor-item:hover {
-    border-color: var(--secondary-color);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
-}
-
-.doc-info-main {
-    display: flex;
-    flex-direction: column;
-    /* Stack image and text */
-    align-items: center;
-    gap: 12px;
-    width: 100%;
-}
-
-.doc-thumb,
-.doc-thumb-placeholder {
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    /* Round image */
-    object-fit: cover;
-    object-position: top;
-    /* Align to top to show faces */
-    background-color: #f1f3f5;
-    border: 1px solid var(--border-color);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--text-light);
-    font-size: 24px;
-}
-
-.doc-text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 .doc-title {
-    font-size: 11px;
+    font-size: 12px;
     text-transform: uppercase;
     color: var(--text-medium);
     font-weight: 600;
     line-height: 1.2;
-    margin-bottom: 2px;
 }
 
 .doc-name {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 700;
     color: var(--primary-color);
     line-height: 1.3;
 }
 
 .doc-branch {
-    font-size: 12px;
+    font-size: 13px;
     color: var(--secondary-color);
     font-weight: 600;
-    margin-top: 4px;
-    /* Move to bottom visually with space */
+}
+
+.doc-hospital {
+    font-size: 12px;
+    color: var(--text-light);
+    margin-top: 2px;
+    font-weight: 500;
 }
 
 .new-badge {
@@ -580,112 +757,13 @@ button {
     border-color: var(--secondary-color);
 }
 
-/* --- Fixed Bottom Bar (Control Center) --- */
-.sticky-footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: var(--bottom-bar-height);
-    background-color: var(--white);
-    border-top: 1px solid var(--border-color);
-    z-index: 2000;
-    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
-    display: flex;
-    align-items: center;
-}
-
-.sticky-footer .container {
-    display: flex;
-    width: 100%;
-    gap: 12px;
-    align-items: center;
-}
-
-.control-center {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
-    background: none;
-    padding: 0;
-    box-shadow: none;
-}
-
-/* Search Box */
-.search-box {
-    flex: 1;
-    position: relative;
-}
-
-.search-icon {
-    position: absolute;
-    left: 12px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: var(--text-light);
-}
-
-#main-search {
-    width: 100%;
-    padding: 10px 10px 10px 36px;
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-sm);
-    background-color: #f8f9fa;
-    color: var(--text-dark);
-    font-size: 14px;
-}
-
-#main-search:focus {
-    border-color: var(--secondary-color);
-    background-color: var(--white);
-    outline: none;
-}
-
-/* Segment Control */
-.segment-control {
-    display: flex;
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-sm);
-    background-color: #f8f9fa;
-    padding: 2px;
-}
-
-.segment-btn {
-    padding: 8px 16px;
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--text-medium);
-    background: transparent;
-    border: none;
-    cursor: pointer;
-    border-radius: 2px;
-}
-
-.segment-btn.active {
-    background-color: var(--white);
-    color: var(--primary-color);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-}
-
-/* Whatsapp Button */
-.whatsapp-btn {
-    width: 40px;
-    height: 40px;
-    background-color: #25D366;
-    color: white;
-    border-radius: var(--radius-sm);
-    /* Square with radius */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 20px;
-    transition: var(--transition);
-}
-
-.whatsapp-btn:hover {
-    background-color: #1ebc57;
+/* Search Input Specifics */
+#doctor-search {
+    background-image: none;
+    /* No arrow for text input */
+    padding-right: 20px;
+    /* Reset padding */
+    cursor: text;
 }
 
 /* Responsive Overrides */
@@ -695,26 +773,105 @@ button {
         margin-bottom: 16px;
     }
 
-    .sticky-footer {
-        padding: 0 10px;
-    }
-
-    .control-center {
-        gap: 8px;
-    }
-
-    .segment-btn {
-        padding: 8px 10px;
-        font-size: 12px;
-    }
-
-    #main-search {
-        font-size: 13px;
-    }
-
     .doc-thumb,
     .doc-thumb-placeholder {
         width: 50px;
         height: 50px;
     }
+}
+
+/* Pagination Styles */
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+    flex-wrap: wrap;
+}
+
+.pagination-btn {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #dee2e6;
+    background-color: var(--white);
+    color: var(--secondary-color);
+    border-radius: 50%;
+    /* Circular */
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.pagination-btn:hover:not(.disabled) {
+    background-color: var(--secondary-color);
+    color: var(--white);
+    border-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 86, 179, 0.2);
+}
+
+.pagination-btn.active {
+    background-color: var(--primary-color);
+    color: var(--white);
+    border-color: var(--primary-color);
+    pointer-events: none;
+    box-shadow: 0 4px 8px rgba(0, 51, 102, 0.3);
+}
+
+.pagination-btn.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: #f1f3f5;
+    color: #adb5bd;
+    box-shadow: none;
+    transform: none;
+}
+
+.pagination-dots {
+    color: var(--text-medium);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 6px;
+    letter-spacing: 2px;
+}
+}
+
+/* Global Search Section */
+.global-search-section {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #eee;
+}
+
+
+
+.search-tab-btn {
+    padding: 10px 24px;
+    border: 2px solid #e9ecef;
+    background-color: transparent;
+    color: var(--text-medium);
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.search-tab-btn.active {
+    background-color: var(--primary-color);
+    color: var(--white);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(0, 51, 102, 0.2);
+}
+
+.search-tab-btn:hover:not(.active) {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
 }

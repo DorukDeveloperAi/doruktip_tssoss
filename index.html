@@ -23,11 +23,12 @@
     <header class="main-header" id="header">
         <div class="container">
             <a href="#" class="brand-logo">
-                <img src="https://doruktip.com/media/doruk-hastaneleri-logo.png" alt="Doruk Hastaneleri"
-                    style="height: 60px;">
+                <img src="assets/logo.png" alt="Doruk Hastaneleri" style="height: 50px;">
             </a>
             <div class="header-contact">
                 <a href="tel:4440455" class="phone-badge"><i class="fas fa-phone-alt"></i> 444 0 455</a>
+                <a href="https://wa.me/902245321060" target="_blank" class="whatsapp-badge"><i
+                        class="fab fa-whatsapp"></i> WhatsApp</a>
             </div>
         </div>
     </header>
@@ -37,12 +38,8 @@
         <section id="institutions" class="section institutions-section">
             <div class="container">
                 <div class="section-header-flex"
-                    style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
+                    style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
                     <h2 class="section-title" style="margin-bottom: 0;">Anlaşmalı Kurumlar</h2>
-                    <div class="inst-search-wrapper">
-                        <i class="fas fa-search inst-search-icon"></i>
-                        <input type="text" id="institution-search" placeholder="Kurum Ara..." class="inst-search-input">
-                    </div>
                 </div>
 
                 <div class="institutions-grid-wrapper">
@@ -57,31 +54,62 @@
             </div>
         </section>
 
+        <!-- Global Search Section -->
+        <section id="global-search-section" class="section global-search-section"
+            style="background-color: #f8f9fa; padding: 40px 0;">
+            <div class="container">
+                <div class="global-search-wrapper" style="max-width: 600px; margin: 0 auto; text-align: center;">
+                    <!-- Tab Buttons -->
+                    <div class="search-tabs"
+                        style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+                        <button class="search-tab-btn active" data-target="doctor">Hekim Ara</button>
+                        <button class="search-tab-btn" data-target="institution">Kurum Ara</button>
+                    </div>
+
+                    <div class="search-box"
+                        style="position: relative; display: flex; align-items: center; background: #fff; border: 1px solid #ddd; border-radius: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); padding: 4px;">
+                        <i class="fas fa-search" style="color: #999; font-size: 18px; margin-left: 20px;"></i>
+                        <input type="text" id="global-search-input" placeholder="Doktor adı veya branş yazınız..."
+                            style="flex: 1; border: 0; outline: none; padding: 12px 8px; font-size: 16px; border-radius: 30px;">
+                        <button id="global-search-btn"
+                            style="background-color: var(--primary-color); color: #fff; border: none; padding: 10px 24px; border-radius: 24px; font-weight: 600; cursor: pointer; margin-right: 4px; transition: opacity 0.2s;">
+                            Bul
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Affiliated Doctors Section -->
         <section id="doctors" class="section doctors-section">
             <div class="container">
                 <div class="section-header-group">
                     <h2 class="section-title" style="line-height: 1.2;">
-                        Uzman Kadromuz <br>
-                        <span style="font-size: 0.7em; font-weight: normal; color: var(--text-medium);">TSS / ÖSS
-                            Anlaşmalı Hekimlerimiz</span>
+                        Uzman Kadromuz
                     </h2>
                     <p class="disclaimer">Tüm hekimlerimiz Doruk Hastaneleri bünyesinde aktif olarak hizmet vermektedir.
                     </p>
 
                     <!-- Hospital Selection Tabs -->
                     <!-- Hospital Selection and Filter -->
+                    <!-- Filter Controls -->
                     <div class="section-controls">
-                        <div class="hospital-tabs">
-                            <button class="tab-btn active" data-hospital="nilufer">Doruk Özel Nilüfer Hastanesi</button>
-                            <button class="tab-btn" data-hospital="yildirim">Doruk Özel Yıldırım Hastanesi</button>
-                            <button class="tab-btn" data-hospital="cekirge">Doruk Özel Bursa Hastanesi</button>
-                        </div>
-
-                        <div class="filter-bar">
-                            <select id="branch-filter" class="branch-select">
+                        <div class="filter-bar" style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
+                            <select id="hospital-filter" class="branch-select" style="flex: 1;">
+                                <option value="all">Tüm Hastaneler</option>
+                                <option value="nilufer">Doruk Özel Nilüfer Hastanesi</option>
+                                <option value="yildirim">Doruk Özel Yıldırım Hastanesi</option>
+                                <option value="cekirge">Doruk Özel Bursa Hastanesi</option>
+                            </select>
+                            <select id="branch-filter" class="branch-select" style="flex: 1;">
                                 <option value="">Tüm Branşlar</option>
                             </select>
+                            <select id="tss-filter" class="branch-select" style="flex: 1;">
+                                <option value="">Tüm Anlaşmalar</option>
+                                <option value="true">Sadece TSS / ÖSS Anlaşmalı</option>
+                            </select>
+                            <input type="text" id="doctor-search" class="branch-select" placeholder="Doktor Ara..."
+                                style="flex: 1;">
                         </div>
                     </div>
 
@@ -92,30 +120,16 @@
                     <div id="doctors-list" class="doctors-list">
                         <div class="loading-state">Hekimler yükleniyor...</div>
                     </div>
+
+                    <!-- Pagination Controls -->
+                    <div id="pagination-controls" class="pagination-container">
+                        <!-- Buttons will be injected here by JS -->
+                    </div>
                 </div>
         </section>
     </main>
 
-    <!-- Sticky Navigation Control (Bottom Bar) -->
-    <div class="sticky-footer">
-        <div class="container">
-            <div class="control-center">
-                <div class="search-box">
-                    <i class="fas fa-search search-icon"></i>
-                    <input type="text" id="main-search" placeholder="Doktor veya Branş Ara..." autocomplete="off">
-                </div>
-
-                <div class="segment-control">
-                    <button class="segment-btn active" data-mode="doctors">Doktorlar</button>
-                    <button class="segment-btn" data-mode="institutions">Kurumlar</button>
-                </div>
-
-                <a href="https://wa.me/904440455" target="_blank" class="whatsapp-btn">
-                    <i class="fab fa-whatsapp"></i>
-                </a>
-            </div>
-        </div>
-    </div>
+    <!-- Sticky Navigation Control Removed -->
 
     <script src="script.js"></script>
     <script>
